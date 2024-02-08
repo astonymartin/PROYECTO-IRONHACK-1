@@ -7,7 +7,7 @@
 <h1>METEORITOS</h1>
 
 
-![](https://github.com/astonymartin/QUEST/blob/main/imagen%20habitaciones.jfif)
+![](https://github.com/astonymartin/PROYECTO-IRONHACK-1/blob/main/principal.jfif)
 
 
 <h2>Proyecto Meteorito Explorer</h2>
@@ -22,6 +22,7 @@ Identificación de Patrones: Buscar patrones o tendencias significativas en los 
 Desarrollo de Ideas Comerciales: Utilizar los insights obtenidos para proponer ideas para aplicaciones móviles y contenido relacionado que puedan ser atractivas para el público.
 Creación de Contenido: Generar contenido educativo y entretenido basado en los datos de los meteoritos para aumentar el interés del público en la ciencia espacial.
 <h2>Tecnologías Utilizadas</h2>
+![](https://github.com/astonymartin/PROYECTO-IRONHACK-1/blob/main/python.jfif)
 Python
 Pandas
 bs4, BeautifulSoup                    
@@ -50,7 +51,7 @@ Contribuciones
 
 Licencia
 Este proyecto se distribuye bajo la licencia MIT.
-
+![](https://github.com/astonymartin/PROYECTO-IRONHACK-1/blob/main/secundaria.jfif)
 Contacto
-Para más información, por favor contacta a [nombre del responsable del proyecto] a través de [correo electrónico] o visita nuestro sitio web [sitio web del proyecto].
+Para más información, por favor contacta a AXIER a través de GITHUB astonymartin.
 
